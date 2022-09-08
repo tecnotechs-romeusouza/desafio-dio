@@ -1,4 +1,5 @@
 # Desafio DER E-commerce
+### Objetivo
 
 Criado DER para E-commerce com base na narrativa 
 
