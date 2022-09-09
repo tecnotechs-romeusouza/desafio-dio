@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-Criado DER para oficina com base na narrativa fornecida
+Construir DER para oficina com base na narrativa fornecida
 
 ### **Narrativa:**
 
